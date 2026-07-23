@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Keep the directory, ignore its contents
+books/*
+!books/.gitkeep
