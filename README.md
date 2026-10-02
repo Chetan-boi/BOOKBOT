@@ -27,8 +27,6 @@ If you run it without a file path, it prints:
 Usage: python3 main.py <path_to_book>
 ```
 
-and exits with status code `1`.
-
 ## Sample output
 
 ```text
